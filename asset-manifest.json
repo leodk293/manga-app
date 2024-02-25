@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/manga-app/static/js/main.67c3b653.js",
+    "index.html": "/manga-app/index.html",
+    "main.67c3b653.js.map": "/manga-app/static/js/main.67c3b653.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.67c3b653.js"
+  ]
+}
